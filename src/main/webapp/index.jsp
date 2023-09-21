@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Campeonato AQP</title>
+<title>Olimpiadas AQP</title>
 </head>
 <body>
-<h1> Registra tu campeonato ahora </h1>
+<h1> Registra tu evento ahora </h1>
 </body>
 </html>
